@@ -147,8 +147,6 @@ http://telecom1.hipjs.eu.org:8081/hls/69/index.m3u8
 http://telecom1.hipjs.eu.org:8081/hls/70/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视.576
 http://telecom1.hipjs.eu.org:8081/hls/71/index.m3u8
-#EXTINF:-1 group-title="山东" tvg-logo="https://epg.112114.xyz/logo/山东教育.png",山东教育.576
-http://telecom1.hipjs.eu.org:8081/hls/72/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视.576
 http://telecom1.hipjs.eu.org:8081/hls/74/index.m3u8
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/山东卫视.png",山东卫视.576
@@ -217,8 +215,6 @@ http://telecom1.hipjs.eu.org:8081/hls/110/index.m3u8
 http://telecom1.hipjs.eu.org:8081/hls/111/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/家庭理财.png",家庭理财.576
 http://telecom1.hipjs.eu.org:8081/hls/112/index.m3u8
-#EXTINF:-1 group-title="湖南" tvg-logo="https://epg.112114.xyz/logo/先锋乒羽.png",湖南先锋乒羽.576
-http://telecom1.hipjs.eu.org:8081/hls/113/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/家家购物..png",家家购物.576
 http://telecom1.hipjs.eu.org:8081/hls/114/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/新动漫.png",新动漫.576
@@ -329,8 +325,6 @@ http://unicom1.hipjs.eu.org:808/hls/79/index.m3u8
 http://unicom1.hipjs.eu.org:808/hls/81/index.m3u8
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png",广东珠江.576
 http://unicom1.hipjs.eu.org:808/hls/83/index.m3u8
-#EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浙江戏曲连播.png",戏曲
-http://unicom1.hipjs.eu.org:808/hls/84/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/CCM.png",CCM
 http://unicom1.hipjs.eu.org:808/hls/85/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/无线财经.png",无线财经体育资讯台
@@ -887,26 +881,8 @@ http://gslbserv.itv.cmvideo.cn/000000001001/3000000010000032106/index.m3u8?chann
 http://gslbserv.itv.cmvideo.cn/000000001001/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2-4K
 http://gslbserv.itv.cmvideo.cn/000000001001/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 group-title="北京" tvg-logo="https://live.fanmingming.com/tv/北京体育休闲.png",北京体育休闲
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001329/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 #EXTINF:-1 group-title="UHD" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江新闻.png",浙江公共新闻
-http://hw-m-l.cztv.com/channels/lantian/channel07/1080p.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江国际.png",浙江国际
-http://hw-m-l.cztv.com/channels/lantian/channel010/1080p.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江少儿.png",浙江少儿
-http://hw-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江教科影视.png",浙江教科影视
-http://hw-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江数码时代.png",浙江数码时代
-http://hw-m-l.cztv.com/channels/lantian/channel012/1080p.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江民生休闲.png",浙江民生休闲
-http://hw-m-l.cztv.com/channels/lantian/channel006/1080p.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/浙江经济生活.png",浙江经济生活
-http://hw-m-l.cztv.com/channels/lantian/channel003/1080p.m3u8
-#EXTINF:-1 group-title="浙江" tvg-logo="https://live.fanmingming.com/tv/钱江都市.png",浙江钱江频道
-http://hw-m-l.cztv.com/channels/lantian/channel002/1080p.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/shangshixinwen.png",上海新闻综合
 http://[2409:8087:4c0a:22:1::18]:6610/170000001115/UmaiCHAN1312BESTVSMGSMG9/index.m3u8?AuthInfo=Stevp%2BWRKxtuMo8naIuwjKjhXSjQi%2BeaQRf9Ziq7KgRxPDH63cId6gXyoJkX5oXhqiHPA8BBLiWRr0QWb9LVbA%3D%3D
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/shanghaidushi.jpg",上海都市
@@ -927,18 +903,6 @@ http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002157/index.m3
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226579/index.m3u8
 #EXTINF:-1 group-title="UHD" tvg-logo="https://live.fanmingming.com/tv/欢笑剧场.png",SITV欢笑剧场4K
 http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002156/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="海南" tvg-logo="https://live.fanmingming.com/tv/海南少儿.png",海南少儿
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
-#EXTINF:-1 group-title="海南" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png",海南文旅
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
-#EXTINF:-1 group-title="海南" tvg-logo="https://live.fanmingming.com/tv/海南公共.png",海南公共
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
-#EXTINF:-1 group-title="海南" tvg-logo="https://live.fanmingming.com/tv/海南文旅.png",海南自贸
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
-#EXTINF:-1 group-title="湖南" tvg-logo="https://live.fanmingming.com/tv/快乐垂钓.png",快乐垂钓
-http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000002264/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
-#EXTINF:-1 group-title="内蒙" tvg-logo="https://live.fanmingming.com/tv/足球频道.png",足球频道
-http://nmglive.imfc.cn/5n1r1c/182396.m3u8
 #EXTINF:-1 group-title="UHD" tvg-logo="https://live.fanmingming.com/tv/suzhou4k.png",苏州-4K
 http://liveshowbak2.kan0512.com/ksz-norecord/csztv4k_4k.m3u8
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/CGTN俄语.png",CGTN俄语
