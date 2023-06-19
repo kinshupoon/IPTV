@@ -835,8 +835,10 @@ http://gslbserv.itv.cmvideo.cn/000000001001/3000000010000032106/index.m3u8?chann
 http://gslbserv.itv.cmvideo.cn/000000001001/3000000010000005180/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000005180&livemode=1&stbId=3
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/L5frXm2p/mg.jpg" group-title="咪咕",咪咕直播-2-4K
 http://gslbserv.itv.cmvideo.cn/000000001001/3000000010000015686/index.m3u8?channel-id=FifastbLive&Contentid=3000000010000015686&livemode=1&stbId=3
-#EXTINF:-1 tvg-logo="" group-title="英雄联盟",LPL
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1685006433&468666" group-title="英雄联盟",LPL主舞台
 http://159.75.85.63:35455/huya/660000
+#EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1042/6f/3626ef611e990cbbcefab8e1bbc561_180_135.jpg?1685006433&468666" group-title="英雄联盟",LPL副舞台
+http://159.75.85.63:35455/huya/660137
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1038/5d/0d26e4a8b734f422781989268cd4b8_180_135.jpg?1633067598" group-title="英雄联盟",解说海威
 http://159.75.85.63:35455/huya/262985
 #EXTINF:-1 tvg-logo="https://huyaimg.msstatic.com/avatar/1017/08/7b0012b378139f55b8c4675724653d_180_135.jpg?1625666609" group-title="英雄联盟", AJ
@@ -853,6 +855,8 @@ http://159.75.85.63:35455/huya/814814
 http://159.75.85.63:35455/huya/528222
 #EXTINF:-1 tvg-logo="https://apic.douyucdn.cn/upload/avatar_v3/202004/f8f19e85ffe04d918e64c152a99d724d_big.jpg" group-title="英雄联盟", 解说米勒
 http://159.75.85.63:35455/douyu/5067522
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/8a0da0973436f4a77f95ef1016e7223fd4255bbb.jpg" group-title="英雄联盟",哔哩哔哩LOL赛事直播
+http://159.75.85.63:35455/bilibili/616
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/4f88fa235e173da289050beb7302070b015d6d34.jpg" group-title="英雄联盟", 解说Mage
 http://159.75.85.63:35455/bilibili/22508985
 #EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/33f582ce9dcdf1ee36437a82c15e22bcd707a67b.jpg" group-title="英雄联盟", LGDPYL116
@@ -861,6 +865,16 @@ http://159.75.85.63:35455/bilibili/22439496?platform=h5&line=first&quality=10000
 http://159.75.85.63:35455/bilibili/12566538
 #EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/baf3a62fb230956e3ff203ae0087582c6d61fd03.jpg" group-title="英雄联盟", 超级乘风儿
 http://159.75.85.63:35455/bilibili/22666872
+#EXTINF:-1 tvg-logo="http://i0.hdslb.com/bfs/face/cb946e532401807bf4e5107b971d3be823a31c4f.jpg" group-title="英雄联盟",解说小米
+http://159.75.85.63:35455/bilibili/952785
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/f2685cb831079956eebb1054e772e881d6814cbe.jpg" group-title="英雄联盟",解说凡凡
+http://159.75.85.63:35455/bilibili/23875324
+#EXTINF:-1 tvg-logo="https://i0.hdslb.com/bfs/face/a4621c9b051f66ada384fb6567e2e0a253bc1b97.jpg" group-title="英雄联盟",十月_April
+http://159.75.85.63:35455/bilibili/21215539
+#EXTINF:-1 tvg-logo="https://i1.hdslb.com/bfs/face/dea47b960e2b7806b23c6c1afa6e5b77ad5fec96.jpg" group-title="英雄联盟",解说彭彭
+http://159.75.85.63:35455/bilibili/22187158
+#EXTINF:-1 tvg-logo="https://i2.hdslb.com/bfs/face/ae733dac3ce468d891a3cf559f710f6191623eca.jpg" group-title="英雄联盟",解说Kinko人
+http://159.75.85.63:35455/bilibili/48901
 #EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/金砖电视.png",金砖中文
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="国际" tvg-logo="https://live.fanmingming.com/tv/NHKWorld.png",NHKWORLD
