@@ -4,6 +4,8 @@ http://telecom1.hipjs.eu.org:8081/hls/1/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 https://php.hipjs.cf/api/hk.php?id=0
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
+https://tv.hipjs.cf/hk.php?id=0
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://telecom1.hipjs.eu.org:8081/hls/67/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/62WM7
@@ -13,6 +15,8 @@ http://telecom1.hipjs.eu.org:8081/hls/25/index.m3u8
 http://telecom1.hipjs.eu.org:8081/hls/26/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
 https://php.hipjs.cf/api/hk.php?id=2
+#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
+https://tv.hipjs.cf/hk.php?id=2
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
 https://php.hipjs.cf/api/hk.php?id=4
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
