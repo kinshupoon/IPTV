@@ -2,10 +2,6 @@
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
 http://telecom1.hipjs.eu.org:8081/hls/1/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-https://php.hipjs.cf/api/hk.php?id=0
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-https://tv.hipjs.cf/hk.php?id=0
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://telecom1.hipjs.eu.org:8081/hls/67/index.m3u8
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://r.jdshipin.com/62WM7
@@ -25,8 +21,6 @@ http://r.jdshipin.com/CkuBd
 http://r.jdshipin.com/jUx8K
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://cdn.jsdelivr.net/gh/kinshupoon/live/tv/TVB財經體育資訊台.png",无线财经体育资讯台
 https://php.hipjs.cf/api/hk.php?id=6
-#EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png",J2
-https://php.hipjs.cf/api/hk.php?id=1
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png",J2
 http://r.jdshipin.com/Nr5jq
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://live.fanmingming.com/tv/TVBJ2.png",J2
