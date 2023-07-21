@@ -81,10 +81,10 @@ http://telecom1.hipjs.eu.org:8081/hls/30/index.m3u8
 http://telecom1.hipjs.eu.org:8081/hls/31/index.m3u8
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png",广东少儿.576
 http://telecom1.hipjs.eu.org:8081/hls/32/index.m3u8
-#EXTINF:-1 group-title="广东" tvg-logo="https://github.hipjs.cf/https://raw.githubusercontent.com/kinshupoon/live/main/茂名综合.png",茂名综合HD
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3012_4500
-#EXTINF:-1 group-title="广东" tvg-logo="https://github.hipjs.cf/https://raw.githubusercontent.com/kinshupoon/live/main/茂名综合.png",茂名综合HD
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3012_1500
+#EXTINF:-1 group-title="广东" tvg-logo="https://github.hipjs.cf/https://raw.githubusercontent.com/kinshupoon/live/main/茂名综合.png",茂名综合
+http://60.208.16.27:1505/gudou.php?id=3012_4500
+#EXTINF:-1 group-title="广东" tvg-logo="https://github.hipjs.cf/https://raw.githubusercontent.com/kinshupoon/live/main/茂名综合.png",茂名综合
+http://60.208.16.27:1505/gudou.php?id=3012_1500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
 http://telecom1.hipjs.eu.org:8081/hls/40/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/中国天气.png",中国天气.576
@@ -460,195 +460,195 @@ http://unicom1.hipjs.eu.org:808/hls/170/index.m3u8
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png",嘉佳卡通.576
 http://unicom1.hipjs.eu.org:808/hls/171/index.m3u8
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东综艺.png",广东综艺4K
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=GDZYHD4K_38000
+http://60.208.16.27:1505/gudou.php?id=GDZYHD4K_38000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/G导视.png",G导视高清
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=GHDdaoshi_7500
+http://60.208.16.27:1505/gudou.php?id=GHDdaoshi_7500
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1350_4500
+http://60.208.16.27:1505/gudou.php?id=1350_4500
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/翡翠台.png",翡翠台
 http://nas.jdshipin.com:8801/gudoufc.php?phone=18581519202&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=364&id=1350_4500
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/明珠台.png",明珠台
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1351_4500
+http://60.208.16.27:1505/gudou.php?id=1351_4500
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/凤凰中文.png",凤凰中文
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=fhzw_1500
+http://60.208.16.27:1505/gudou.php?id=fhzw_1500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/星空卫视.png",星空卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=xingkong_1500
+http://60.208.16.27:1505/gudou.php?id=xingkong_1500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/澳亚卫视.png",澳亚卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=aoya_1500
+http://60.208.16.27:1505/gudou.php?id=aoya_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东珠江.png",广东珠江
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=gdzhujiangHD_7500
+http://60.208.16.27:1505/gudou.php?id=gdzhujiangHD_7500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东体育.png",广东体育
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1413
+http://60.208.16.27:1505/gudou.php?id=1413
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东经济科教.png",广东经济科教
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=GDjingjikejiaoHD_7000
+http://60.208.16.27:1505/gudou.php?id=GDjingjikejiaoHD_7000
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东新闻.png",广东新闻
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1454
+http://60.208.16.27:1505/gudou.php?id=1454
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东公共.png",广东公共
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1455
+http://60.208.16.27:1505/gudou.php?id=1455
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/大湾区卫视.png",大湾区卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1456
+http://60.208.16.27:1505/gudou.php?id=1456
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东影视.png",广东影视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1458
+http://60.208.16.27:1505/gudou.php?id=1458
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/嘉佳卡通.png",嘉佳卡通
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=gdjiajiacartoon_1500
+http://60.208.16.27:1505/gudou.php?id=gdjiajiacartoon_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广东少儿.png",广东少儿
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=gdshaoer_1500
+http://60.208.16.27:1505/gudou.php?id=gdshaoer_1500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/广东卫视.png",广东卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=guangdongHD_7000
+http://60.208.16.27:1505/gudou.php?id=guangdongHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/深圳卫视.png",深圳卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shenzhenHD_7000
+http://60.208.16.27:1505/gudou.php?id=shenzhenHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖南卫视.png",湖南卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=hunanHD_7000
+http://60.208.16.27:1505/gudou.php?id=hunanHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江苏卫视.png",江苏卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=jiangsuHD_7000
+http://60.208.16.27:1505/gudou.php?id=jiangsuHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/浙江卫视.png",浙江卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=zhejiangHD_7000
+http://60.208.16.27:1505/gudou.php?id=zhejiangHD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4K.png",CCTV4K
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=4005
+http://60.208.16.27:1505/gudou.php?id=4005
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16-4K
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=4010
+http://60.208.16.27:1505/gudou.php?id=4010
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/4K影视.png",4K影视
 http://nas.jdshipin.com:8801/4kys.php
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV1.png",CCTV1
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV1HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV1HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV2.png",CCTV2
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV2HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV2HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV3.png",CCTV3
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV3HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV3HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV4.png",CCTV4
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV-4HD_7500
+http://60.208.16.27:1505/gudou.php?id=CCTV-4HD_7500
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5.png",CCTV5
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1605_4500
+http://60.208.16.27:1505/gudou.php?id=1605_4500
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV5+.png",CCTV5+
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1403_4500
+http://60.208.16.27:1505/gudou.php?id=1403_4500
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV6.png",CCTV6
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV6HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV6HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV7.png",CCTV7
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV7HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV7HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8.png",CCTV8
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV8HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV8HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV9.png",CCTV9
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV9HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV9HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV10.png",CCTV10
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV10HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV10HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV11.png",CCTV11
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV-11HD_7500
+http://60.208.16.27:1505/gudou.php?id=CCTV-11HD_7500
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV12.png",CCTV12
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV12HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV12HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV13.png",CCTV13
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1613
+http://60.208.16.27:1505/gudou.php?id=1613
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV14.png",CCTV14
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV14HD_7000
+http://60.208.16.27:1505/gudou.php?id=CCTV14HD_7000
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV15.png",CCTV15
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV-15HD_7500
+http://60.208.16.27:1505/gudou.php?id=CCTV-15HD_7500
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV16.png",CCTV16
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1617_4500
+http://60.208.16.27:1505/gudou.php?id=1617_4500
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV17.png",CCTV17
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV17HD
+http://60.208.16.27:1505/gudou.php?id=CCTV17HD
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CGTN.png",CGTN
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CCTV15news_1500
+http://60.208.16.27:1505/gudou.php?id=CCTV15news_1500
 #EXTINF:-1 group-title="央视" tvg-logo="https://epg.112114.xyz/logo/CCTV8K测试.png",CCTV8K测试
 http://[2409:8087:2001:20:2800:0:df6e:eb03]/wh7f454c46tw1981574683_-2118700426/ott.mobaibox.com/PLTV/3/224/3221228165/index.m3u8?icpid=3&RTS=1659435610&from=40&popid=40&hms_devid=2039&prioritypopid=40&vqe=3
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/BESTV4K.png",BesTV-4K
 http://[2409:8087:5e01:34::30]:6610/ZTE_CMS/00000001000000060000000000000202/index.m3u8?IAS
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东方卫视.png",东方卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=dongfangHD_7000
+http://60.208.16.27:1505/gudou.php?id=dongfangHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/北京卫视.png",北京卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=beijingHD_7000
+http://60.208.16.27:1505/gudou.php?id=beijingHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/江西卫视.png",江西卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=jiangxiHD_7000
+http://60.208.16.27:1505/gudou.php?id=jiangxiHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/四川卫视.png",四川卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=sichuanHD_7000
+http://60.208.16.27:1505/gudou.php?id=sichuanHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/天津卫视.png",天津卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1415_4500
+http://60.208.16.27:1505/gudou.php?id=1415_4500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/河北卫视.png",河北卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1426_4500
+http://60.208.16.27:1505/gudou.php?id=1426_4500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/重庆卫视.png",重庆卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=chongqingHD_7000
+http://60.208.16.27:1505/gudou.php?id=chongqingHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/贵州卫视.png",贵州卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=guizhouHD_7000
+http://60.208.16.27:1505/gudou.php?id=guizhouHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/辽宁卫视.png",辽宁卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=liaoningHD_7000
+http://60.208.16.27:1505/gudou.php?id=liaoningHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/湖北卫视.png",湖北卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=hubeiHD_7000
+http://60.208.16.27:1505/gudou.php?id=hubeiHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/安徽卫视.png",安徽卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=anhuiHD_7000
+http://60.208.16.27:1505/gudou.php?id=anhuiHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/黑龙江卫视.png",黑龙江卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=heilongjiangHD_7000
+http://60.208.16.27:1505/gudou.php?id=heilongjiangHD_7000
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/海南卫视.png",海南卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1451_4500
+http://60.208.16.27:1505/gudou.php?id=1451_4500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/陕西卫视.png",陕西卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1452_4500
+http://60.208.16.27:1505/gudou.php?id=1452_4500
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/东南卫视.png",东南卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=dongnanweishiHD
+http://60.208.16.27:1505/gudou.php?id=dongnanweishiHD
 #EXTINF:-1 group-title="卫视" tvg-logo="https://epg.112114.xyz/logo/三沙卫视.png",三沙卫视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=1453
+http://60.208.16.27:1505/gudou.php?id=1453
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/CHC高清电影.png",CHC高清电影
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=CHCHD_7000
+http://60.208.16.27:1505/gudou.php?id=CHCHD_7000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/乐游.png",乐游
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=quanjishiHD_7000
+http://60.208.16.27:1505/gudou.php?id=quanjishiHD_7000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/求索纪录.png",求索纪录
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=QSJLHD_7000
+http://60.208.16.27:1505/gudou.php?id=QSJLHD_7000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/求索科学.png",求索科学
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=qiusuokexueHD_7000
+http://60.208.16.27:1505/gudou.php?id=qiusuokexueHD_7000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/求索动物.png",求索动物
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=QSDWHD_7000
+http://60.208.16.27:1505/gudou.php?id=QSDWHD_7000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/浙江求索生活.png",求索生活
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=QSSHHD_7000
+http://60.208.16.27:1505/gudou.php?id=QSSHHD_7000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/魅力足球.png",魅力足球
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=meiliyinyueHD_7000
+http://60.208.16.27:1505/gudou.php?id=meiliyinyueHD_7000
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/SITV劲爆体育.png",劲爆体育
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=jinbaotiyuHD_7000
+http://60.208.16.27:1505/gudou.php?id=jinbaotiyuHD_7000
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/汕头综合.png",汕头综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shantouyitaogaoqing_4500
+http://60.208.16.27:1505/gudou.php?id=shantouyitaogaoqing_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/汕头经济生活.png",汕头经济生活
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shantouertaogaoqing_4500
+http://60.208.16.27:1505/gudou.php?id=shantouertaogaoqing_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/汕头文旅体育.png",汕头文旅体育
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2508_4500
+http://60.208.16.27:1505/gudou.php?id=2508_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/潮州综合.png",潮州综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3131
+http://60.208.16.27:1505/gudou.php?id=3131
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/潮州民生.png",潮州民生
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3132
+http://60.208.16.27:1505/gudou.php?id=3132
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/中山综合.png",中山综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3665
+http://60.208.16.27:1505/gudou.php?id=3665
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/中山公共.png",中山公共
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3663
+http://60.208.16.27:1505/gudou.php?id=3663
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/中山教育.png",中山教育
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3664
+http://60.208.16.27:1505/gudou.php?id=3664
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/鹤山综合.png",鹤山综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3709
+http://60.208.16.27:1505/gudou.php?id=3709
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/梅州1.png",梅州1
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=meizhou1HD_4500
+http://60.208.16.27:1505/gudou.php?id=meizhou1HD_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/梅州2.png",梅州2
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=meizhou2HD_4500
+http://60.208.16.27:1505/gudou.php?id=meizhou2HD_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/增城电视台.png",增城电视台
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2079
+http://60.208.16.27:1505/gudou.php?id=2079
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/东莞新闻综合.png",东莞新闻综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2121
+http://60.208.16.27:1505/gudou.php?id=2121
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/东莞生活资讯.png",东莞生活资讯
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2122
+http://60.208.16.27:1505/gudou.php?id=2122
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/佛山综合.png",佛山综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=foshanzongheHD_4500
+http://60.208.16.27:1505/gudou.php?id=foshanzongheHD_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/佛山公共.png",佛山公共
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=foshangonggongHD_4500
+http://60.208.16.27:1505/gudou.php?id=foshangonggongHD_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/佛山影视.png",佛山影视
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=foshanyingshiHD_4500
+http://60.208.16.27:1505/gudou.php?id=foshanyingshiHD_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/南海综合.png",南海综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=nanhaiHD_4500
+http://60.208.16.27:1505/gudou.php?id=nanhaiHD_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/顺德综合.png",顺德综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shundeHD_4500
+http://60.208.16.27:1505/gudou.php?id=shundeHD_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/斗门融媒.png",斗门融媒
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2207
+http://60.208.16.27:1505/gudou.php?id=2207
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/惠州1.png",惠州1
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2314
+http://60.208.16.27:1505/gudou.php?id=2314
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/惠州2.png",惠州2
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2316
+http://60.208.16.27:1505/gudou.php?id=2316
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/博罗综合.png",博罗综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2305
+http://60.208.16.27:1505/gudou.php?id=2305
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广州综合.png",广州综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=gzhounewsHD
+http://60.208.16.27:1505/gudou.php?id=gzhounewsHD
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广州新闻.png",广州新闻
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=gzhouzongheHD
+http://60.208.16.27:1505/gudou.php?id=gzhouzongheHD
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广州法治.png",广州法治
 http://my.mytvtv.top/guangdong/gztv.php?id=gzfz
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广州竞赛.png",广州竞赛
@@ -656,75 +656,75 @@ http://my.mytvtv.top/guangdong/gztv.php?id=gzjs
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/广州影视.png",广州影视
 http://my.mytvtv.top/guangdong/gztv.php?id=gzys
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/湛江综合.png",湛江综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=zhanjiangzonghe_1500
+http://60.208.16.27:1505/gudou.php?id=zhanjiangzonghe_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/湛江公共.png",湛江公共
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=zhanjianggonggong_1500
+http://60.208.16.27:1505/gudou.php?id=zhanjianggonggong_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/韶关新闻综合.png",韶关新闻综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shaoguanzonghe_1500
+http://60.208.16.27:1505/gudou.php?id=shaoguanzonghe_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/韶关绿色生活.png",韶关绿色生活
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shaoguangonggong_1500
+http://60.208.16.27:1505/gudou.php?id=shaoguangonggong_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/始兴综合.png",始兴综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2641
+http://60.208.16.27:1505/gudou.php?id=2641
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/江门综合.png",江门综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3712_1500
+http://60.208.16.27:1505/gudou.php?id=3712_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/江门侨乡生活.png",江门侨乡生活
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=jiangmenyitao_1500
+http://60.208.16.27:1505/gudou.php?id=jiangmenyitao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/新会综合.png",新会综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=xinhui_1500
+http://60.208.16.27:1505/gudou.php?id=xinhui_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/佛冈.png",佛冈
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2405
+http://60.208.16.27:1505/gudou.php?id=2405
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/怀集综合.png",怀集综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2805
+http://60.208.16.27:1505/gudou.php?id=2805
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/云浮综合.png",云浮综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=yunfuyitao_1500
+http://60.208.16.27:1505/gudou.php?id=yunfuyitao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/云浮文旅.png",云浮文旅
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=yunfuertao_1500
+http://60.208.16.27:1505/gudou.php?id=yunfuertao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/珠海1.png",珠海1
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=zhuhaiyitao_1500
+http://60.208.16.27:1505/gudou.php?id=zhuhaiyitao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/珠海2.png",珠海2
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=zhuhaiertao_1500
+http://60.208.16.27:1505/gudou.php?id=zhuhaiertao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/河源综合.png",河源综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=heyuanyitao_1500
+http://60.208.16.27:1505/gudou.php?id=heyuanyitao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/河源公共.png",河源公共
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=heyuanertao_1500
+http://60.208.16.27:1505/gudou.php?id=heyuanertao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/肇庆综合.png",肇庆综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=zhaoqingyitao_1500
+http://60.208.16.27:1505/gudou.php?id=zhaoqingyitao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/肇庆生活服务.png",肇庆生活服务
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=zhaoqingertao_1500
+http://60.208.16.27:1505/gudou.php?id=zhaoqingertao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/揭阳综合.png",揭阳综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=jieyangyitao_1500
+http://60.208.16.27:1505/gudou.php?id=jieyangyitao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/揭阳生活.png",揭阳生活
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=jieyangertao_1500
+http://60.208.16.27:1505/gudou.php?id=jieyangertao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/清远新闻综合.png",清远新闻综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=qingyuanzonghe_1500
+http://60.208.16.27:1505/gudou.php?id=qingyuanzonghe_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/清远文旅生活.png",清远文旅生活
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=qingyuangongong_1500
+http://60.208.16.27:1505/gudou.php?id=qingyuangongong_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/汕尾新闻综合.png",汕尾新闻综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shanweiyitao_1500
+http://60.208.16.27:1505/gudou.php?id=shanweiyitao_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/汕尾文化生活.png",汕尾文化生活
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=shanweiertao_1500
+http://60.208.16.27:1505/gudou.php?id=shanweiertao_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂一年级.png",广州共享课堂一年级
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2061_1500
+http://60.208.16.27:1505/gudou.php?id=2061_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂二年级.png",广州共享课堂二年级
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2062_1500
+http://60.208.16.27:1505/gudou.php?id=2062_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂三年级.png",广州共享课堂三年级
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2063_1500
+http://60.208.16.27:1505/gudou.php?id=2063_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂四年级.png",广州共享课堂四年级
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2064_1500
+http://60.208.16.27:1505/gudou.php?id=2064_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂五年级.png",广州共享课堂五年级
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2065_1500
+http://60.208.16.27:1505/gudou.php?id=2065_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂六年级.png",广州共享课堂六年级
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2066_1500
+http://60.208.16.27:1505/gudou.php?id=2066_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初一.png",广州共享课堂初一
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2067_1500
+http://60.208.16.27:1505/gudou.php?id=2067_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初二.png",广州共享课堂初二
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2068_1500
+http://60.208.16.27:1505/gudou.php?id=2068_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂初三.png",广州共享课堂初三
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2069_1500
+http://60.208.16.27:1505/gudou.php?id=2069_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高一.png",广州共享课堂高一
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2070_1500
+http://60.208.16.27:1505/gudou.php?id=2070_1500
 #EXTINF:-1 group-title="其他" tvg-logo="https://epg.112114.xyz/logo/广州共享课堂高一.png",广州共享课堂高一
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=2071_1500
+http://60.208.16.27:1505/gudou.php?id=2071_1500
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/无线新闻.png",无线新闻台
 https://php.hipjs.cf/api/tvb.php?id=0&hq
 #EXTINF:-1 group-title="港澳台" tvg-logo="https://epg.112114.xyz/logo/無線財經·體育·資訊台.png",無線財經·體育·資訊台
@@ -928,13 +928,13 @@ http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3
 #EXTINF:-1 group-title="央视" tvg-logo="https://live.fanmingming.com/tv/电视指南.png",电视指南
 http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888893/224/3221226987/index.m3u8
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/茂名公共.png",茂名公共HD
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3013_4500
+http://60.208.16.27:1505/gudou.php?id=3013_4500
 #EXTINF:-1 group-title="广东" tvg-logo="https://github.hipjs.cf/https://raw.githubusercontent.com/kinshupoon/live/main/茂名综合.png",茂名综合
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3012_800
+http://60.208.16.27:1505/gudou.php?id=3012_800
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/茂名公共.png",茂名公共
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3013_1500
+http://60.208.16.27:1505/gudou.php?id=3013_1500
 #EXTINF:-1 group-title="广东" tvg-logo="https://epg.112114.xyz/logo/茂名公共.png",茂名公共
-http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=be70dd794e51830c7=&cid=1330&id=3013_800
+http://60.208.16.27:1505/gudou.php?id=3013_800
 #EXTINF:-1 group-title="UHD" tvg-logo="https://live.fanmingming.com/tv/爱上4K.png",爱上4K
 http://111.20.40.170/PLTV/88888893/224/3221226352/index.m3u8
 #EXTINF:-1 group-title="上海" tvg-logo="https://live.fanmingming.com/tv/shangshixinwen.png",上海新闻综合
